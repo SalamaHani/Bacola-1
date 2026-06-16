@@ -2,26 +2,28 @@
 
 # 🛍️ E-Commerce Platform >> Online Grocery Shopping Center (Bacola)
 
-
 A modern full-stack e-commerce solution with secure payments, robust authentication, and advanced admin dashboard.
 
 ## ✨ Features
 
 ### 💳 Payment System
+
 - **Stripe Integration** - Secure online payments
 - **Cash on Delivery** - Pay when you receive your order
 
 ### 🔐 Authentication & Authorization
+
 - **JWT Authentication** - Secure access tokens
 - **Role-Based Access Control**:
   - 👨‍💼 Admin - Full system control
   - 👔 Manager - Limited admin privileges
   - 👤 End User - Customer access
 - **Multi-Login Options**:
-  - 📧 Email/password signup & login
-  - 🔵 (Google OAuth + OTP Email Verification with Mailtrap) integration 
+  - 📧 Email/password signup & loginp.o
+  - 🔵 (Google OAuth + OTP Email Verification with Mailtrap) integration
 
 ### 🛒 E-Commerce Core
+
 - 🏪 Product catalog with categories
 - 🛍️ Shopping cart functionality
 - 💝 Wishlist system
@@ -31,7 +33,9 @@ A modern full-stack e-commerce solution with secure payments, robust authenticat
 - ✉️ Contact page with form & business info
 
 ![Image](https://github.com/user-attachments/assets/aac70a62-0f0c-4b99-9913-bd4deda9ce57)
+
 ### 📊 Admin Dashboard
+
 - 🧑‍💼 User management & analytics
 - 📦 Product management & analytics
 - 🗂️ Category management & analytics
@@ -40,10 +44,10 @@ A modern full-stack e-commerce solution with secure payments, robust authenticat
 - 🎨 App layout customization
 
 ### 🎨 UI/UX
+
 - Modern design with **Tailwind CSS**
 - Beautiful components using **shadcn/ui**
 - Responsive layout
-
 
 ## 🚀 Technologies Used
 
